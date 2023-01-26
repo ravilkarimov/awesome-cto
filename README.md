@@ -104,7 +104,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [How to build a startup engineering team](https://increment.com/teams/how-to-build-a-startup-engineering-team/)
  * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
  * [Lessons from Keith Rabois: How to be an Effective Executive](https://delian.io/lessons-3)
- * [How Context Switching Sabotages Your Productivity](https://blog.doist.com/context-switching/) 
+ * [How Context Switching Sabotages Your Productivity](https://blog.doist.com/context-switching/)
  * [10,000 Hours with Reid Hoffman: What I Learned](https://casnocha.com/reid-hoffman-lessons)
  * [7 Ways to Set Up a New Hire for Success](https://hbr.org/2019/05/7-ways-to-set-up-a-new-hire-for-success)
  * [How to get promoted](https://www.spakhm.com/p/how-to-get-promoted)
@@ -210,7 +210,12 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d)
  * [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html) *(Martin Fowler)*
  * [Database Migrations Done Right](https://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
- * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
+ * &check; [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
+   * [Standardized Architecture for PCI DSS on the AWS Cloud](https://docs.aws.amazon.com/quickstart/latest/compliance-pci/overview.html#figure-2)
+   * [Rails Performance: The Database](http://blog.seriousfox.co.uk/2014/02/03/rails-performance-the-database/)
+   * [Don’t Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
+   * [The Four Interfaces of SaaS products](https://medium.com/dangerous-engineering/the-four-interfaces-of-saas-product-suites-fb4d516169ed)
+   * [magic scaling sprinkles](https://ultrasaurus.com/2009/04/magic-scaling-sprinkles/)
  * [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
  * [DataOps](https://en.wikipedia.org/wiki/Dataops)
  * Data Science
@@ -241,7 +246,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Lean Canvas](https://leanstack.com/leancanvas) + [Miro template](https://miro.com/templates/lean-canvas/)
  * [Open Source Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
  * [List of startups that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot) *(GitHub)*
- 
+
 
 ## Due Diligence
  * [Technology Due Diligence Checklist](https://akfpartners.com/growth-blog/technical-due-diligence-checklists)
