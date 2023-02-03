@@ -94,7 +94,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Hold Your Team Accountable](https://marker.medium.com/how-to-hold-your-team-accountable-9fa57bfb315d)
  * [The Manager FAQ](https://www.seebs.net/faqs/manager.html)
  * [The Power of Performance Reviews](https://firstround.com/review/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/)
- * [Principles of Engineering Management](https://medium.com/swlh/principles-of-engineering-management-c9cae1b34a8b)
+ * &check; [Principles of Engineering Management](https://medium.com/swlh/principles-of-engineering-management-c9cae1b34a8b)
  * [Compensation Best Practices](https://www.payscale.com/cbpr)
  * [Draw The Owl and Other Company Values You Didn’t Know You Should Have](https://firstround.com/review/draw-the-owl-and-other-company-values-you-didnt-know-you-should-have/)
  * [A MANAGER’S BILL OF RESPONSIBILITIES (AND RIGHTS)](https://charity.wtf/2019/10/30/a-managers-bill-of-responsibilities-and-rights/)
