@@ -214,7 +214,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Standardized Architecture for PCI DSS on the AWS Cloud](https://docs.aws.amazon.com/quickstart/latest/compliance-pci/overview.html#figure-2)
    * [Rails Performance: The Database](http://blog.seriousfox.co.uk/2014/02/03/rails-performance-the-database/)
    * [Don’t Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/)
-   * [The Four Interfaces of SaaS products](https://medium.com/dangerous-engineering/the-four-interfaces-of-saas-product-suites-fb4d516169ed)
+   * &check; [The Four Interfaces of SaaS products](https://medium.com/dangerous-engineering/the-four-interfaces-of-saas-product-suites-fb4d516169ed)
    * [magic scaling sprinkles](https://ultrasaurus.com/2009/04/magic-scaling-sprinkles/)
  * [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
  * [DataOps](https://en.wikipedia.org/wiki/Dataops)
