@@ -256,6 +256,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Money / Finance
 
+
  * Startups
    * [IPOs and Beyond: A Guide to Exit Options for Companies](https://future.a16z.com/ipos-and-beyond-a-guide-to-exit-options-for-companies/)
    * [What would a CTO equity be for a small startup?](https://www.quora.com/What-would-a-CTO-compensation-equity-be-for-a-small-startup) *(Quora)*
@@ -265,7 +266,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Startup Economics equity calculator](https://smartasset.com/infographic/startup)
  * Big companies
    * [Financial Planning & Analysis @ GitLab](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
-   * [Framework for balancing and budgeting engineering resourcing](https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c)
+   * &check; [Framework for balancing and budgeting engineering resourcing](https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c)
    * [Negotiate the right deal with suppliers](https://www.infoentrepreneurs.org/en/guides/negotiate-the-right-deal-with-suppliers/)
    * [Strategic Procurements 10 Commandments for Managing the Buying Process](https://strategicdynamicsfirm.com/strategic-procurements-10-commandments-managing-hospital-buying-process/)
 
